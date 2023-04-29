@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @swap-beep
-- 👀 I’m interested in python.
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on python projects
+- 👀 I’m interested in python and data science
+- 🌱 I’m currently learning python and data science
+- 💞️ I’m looking to collaborate on data science projects
 - 📫 you can reach me with this e-mail swapnil141063@gmail.com
 
 <!---
