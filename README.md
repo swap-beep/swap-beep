@@ -62,7 +62,7 @@ product-based company.
       
    ## 🙋‍♂️ About Me
       
-   - 🔭 I’m currently pursuing Full Stack Web Development
+   - 🔭 I’m currently pursuing Full Stack Web Development in .NET Framework
       
    
       
@@ -153,9 +153,4 @@ product-based company.
       <img align="left" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="10px" alt="Git" />
     
   
-  <p align="center">
-    <a href="https://github.com/Shivampasvan"><span>
-        <img align="center"
-          src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shivampasvan&theme=github_dark" width="100%" />
-      </span></a>
-  </p>
+  
