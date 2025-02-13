@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 <h3 align="center">An analytical and detail-oriented aspiring                        
 Full Stack Web Developer. Capable of                       
 writing production-ready code using                 
->NET framework . Passionate about coding                   
+.NET framework . Passionate about coding                   
 and intensely interested in working in a           
 product-based company.      
 </h3>        
