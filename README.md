@@ -24,7 +24,7 @@ product-based company.
             
 <p align="center" color:"red">
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
-<img src="https://readme-typing-svg.demolab.com/?lines=hi! My self Shivam Pasvan 🏽; I am a Full-stack%20web%20developer 🏻‍💻; interested in Coding 🏃‍♂️♂️;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
+<img src="https://readme-typing-svg.demolab.com/?lines=hi! My self Swapnil Mishra 🏽; I am a Full-stack%20web%20developer 🏻‍💻; interested in Coding 🏃‍♂️♂️;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
 </p>
    
 <img align="right" width=200px height=250px alt="side_sticker"
@@ -63,9 +63,7 @@ product-based company.
    ## 🙋‍♂️ About Me
       
    - 🔭 I’m currently working as a Web Developer in .NET Framework
-      
-   
-      
+        
       - 📄 Check out my <a href="https://drive.google.com/file/d/1btpP8GpXCqHSVFquGhEMmGley6nch-kY/view?usp=sharing" target="_blank" >Resume</a>
       
      <!-- - 💻 My portfolio link [Portfolio]( https://swap-beep.github.io/) -->
